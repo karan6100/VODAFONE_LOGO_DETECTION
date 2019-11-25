@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images/train_cleaned</folder>
+  <filename>Image200.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>207</width>
+    <height>243</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>vodafone</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>5</ymin>
+      <xmax>200</xmax>
+      <ymax>195</ymax>
+    </bndbox>
+  </object>
+</annotation>

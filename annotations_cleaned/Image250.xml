@@ -1,0 +1,10 @@
+<annotation>
+  <folder>images/train_cleaned</folder>
+  <filename>Image250.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>207</width>
+    <height>243</height>
+    <depth>3</depth>
+  </size>
+</annotation>
